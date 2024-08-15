@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* background-color: lightgray; */
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+
+.tech-logo {
+    height: 35px;
+}
+
+#text-header {
+    font-size: 3rem;
+}
+
+
+
+#carousel-inner img{
+
+    background-position: center;
+}
+
+.logo-icon{
+    height: 40px;
+    margin-right: 10px;
+}
+
+#icon-grid h3 {
+    font-size: 2rem;
+}
+
+#product-img {
+    height: 10px;
+}
+
+#feature-product:hover {
+    transition: 0.4s;
+}
+
+#feature-product:hover {
+    transform: scale(1.1);
+}
+
+#padding_zero{
+    padding: 0;
+}
+
